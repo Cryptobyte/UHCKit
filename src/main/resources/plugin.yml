@@ -1,0 +1,7 @@
+name: UHCKit
+version: 0.0.1
+description: UHCKit
+author: Cryptobyte
+website: https://lawlsec.org/UHCKit
+depend: [Bugger]
+main: org.lawlsec.UHCKit.UHCKit

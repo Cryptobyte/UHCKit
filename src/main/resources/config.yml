@@ -1,0 +1,10 @@
+Database:
+  User: 
+  Pass: 
+  Host: 
+  Port: 3306
+  Database: 
+  SSL: false
+
+Server:
+  World: world
